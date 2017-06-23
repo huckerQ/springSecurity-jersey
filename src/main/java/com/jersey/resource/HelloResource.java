@@ -1,4 +1,4 @@
-package org.losohome.jerseyspringsecurity;
+package com.jersey.resource;
 
 import java.io.IOException;
 
