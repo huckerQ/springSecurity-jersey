@@ -72,5 +72,5 @@ public class HelloResource {
 	public String sayHelloFromAdmin(@FormParam("name") String name) {
 		return ("Hello " + name + "~ , I am ADMIN");
 	}
-
+  
 }
